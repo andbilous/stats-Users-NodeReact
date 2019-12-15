@@ -53,8 +53,8 @@ const UserListPage =({setUserId,history})=>{
 
     return (
         <>
-            <Navbar bg="primary" variant="dark">
-                <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+            <Navbar bg="primary">
+                <Navbar.Brand href="#home">AppCo</Navbar.Brand>
             </Navbar>
             <h1>User Statistics</h1>
             <Table responsive>
